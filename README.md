@@ -13,6 +13,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Rafa-PHP" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Vue" height="70" width="40" src="https://icons8.com/icon/rY6agKizO9eb/vue-js">
   <img align="center" alt="Rafa-LARAVEL" height="70" width="40"src="https://camo.githubusercontent.com/9d0bc75ece06bd0c74d0e9bc3161e012c70c5aa2782f372912c87c84360ad138/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2d776f72646d61726b2e737667">
   
 </div>
